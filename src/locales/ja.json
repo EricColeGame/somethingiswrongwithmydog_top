@@ -1,1 +1,481 @@
-{}
+{
+  "site": {
+    "name": "Something is Wrong With My Dog Wiki",
+    "shortName": "Something is Wrong With My Dog",
+    "tagline": "狼のジェリー、サバイバル、エンディングと秘密",
+    "description": "初心者向けのヒント、ジェリー・ザ・ウルフの詳細、ストーリーの手掛かり、生存戦略、エンディングガイド、秘密、Roblox ゲームプレイのヘルプで Something is Wrong With My Dog を探索してください。",
+    "legalNotice": "非公式ファン wiki。ゲーム開発者やRobloxとは無関係です。"
+  },
+  "nav": {
+    "menu": "メニュー",
+    "toggleTheme": "テーマの切り替え",
+    "guide": "ガイド",
+    "endings": "エンディング",
+    "characters": "キャラクター",
+    "mechanics": "メカニクス",
+    "platforms": "プラットフォーム",
+    "community": "コミュニティ",
+    "codes": "コード"
+  },
+  "home": {
+    "meta": {
+      "title": "Something is Wrong With My Dog Wiki - エンディングとガイド",
+      "description": "初心者向けのヒント、ジェリー・ザ・ウルフの詳細、ストーリーの手掛かり、生存戦略、エンディングガイド、秘密、Roblox ゲームプレイのヘルプで Something is Wrong With My Dog を探索してください。"
+    },
+    "hero": {
+      "eyebrow": "Roblox ホラーサバイバルアドベンチャー",
+      "title": "Something is Wrong With My Dog Wiki",
+      "description": "森を探索し、オオカミのジェリーの世話をし、毎晩生き延び、物語の隠された手がかりを明らかにし、Something is Wrong With My Dog で 10 のエンディングすべてを発見してください。",
+      "stats": [
+        "合計訪問者数 100 万人以上",
+        "10 種類のエンディングが利用可能",
+        "ソロと協力プレイ",
+        "サバイバルモード"
+      ],
+      "primaryCta": "初心者ガイドを開始する",
+      "secondaryCta": "Roblox でプレイする",
+      "tertiaryCta": "ゲームプレイを見る",
+      "videoLabel": "関連ゲームプレイビデオ"
+    },
+    "updates": {
+      "title": "最新の更新情報",
+      "browse": "すべてのガイドを参照",
+      "viewAll": "すべて見る"
+    },
+    "start": {
+      "eyebrow": "ここから始めてください",
+      "title": "あなたの Something is Wrong With My Dog の旅",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "操作方法を学び、3 つの骨でジェリーを飼いならし、最初のキャンプを構築し、朝まで生き残ります。"
+        },
+        {
+          "number": "2",
+          "title": "ジェリーを飼いならす方法",
+          "description": "森林限界でハイイロオオカミを見つけ、骨を 3 つ集め、Good Boy バッジのロックを解除します。"
+        },
+        {
+          "number": "3",
+          "title": "サバイバルモード",
+          "description": "繰り返し可能なキャンプのルーチンを構築し、リソースを管理し、日が暮れる前に戻ります。"
+        },
+        {
+          "number": "4",
+          "title": "全10エンディング",
+          "description": "ストーリー ルートに従い、朝の手がかりを比較し、リプレイしてすべての結末を明らかにします。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気のページ",
+      "title": "現在のトレンド",
+      "quickLinks": [
+        "ジェリー・テイミング",
+        "全エンディング",
+        "コードのステータス",
+        "サバイバルモード"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "コントロール、ジェリーの飼いならし、キャンプの建設、そしてボブの森での最初の夜の日課。",
+          "href": "/guide/something-is-wrong-with-my-dog-how-to-tame-jerry"
+        },
+        {
+          "badge": "ミステリー",
+          "title": "全10エンディング",
+          "description": "良い結末、悪い結末、真の結末、そして秘密の結末の背後にあるストーリールートをたどります。",
+          "href": "/guide/something-is-wrong-with-my-dog-all-endings"
+        },
+        {
+          "badge": "ステータス",
+          "title": "コードのステータス",
+          "description": "検証済みのコード リスト、引き換え手順、および注意すべき公式ソースを確認してください。",
+          "href": "/codes/something-is-wrong-with-my-dog-codes"
+        },
+        {
+          "badge": "キャラクター",
+          "title": "狼のジェリー",
+          "description": "赤い首輪をしたハイイロオオカミに出会い、物語を通して彼の役割をたどってください。",
+          "href": "/characters/something-is-wrong-with-my-dog-jerry-dog"
+        },
+        {
+          "badge": "ロブロックス",
+          "title": "Roblox サバイバルガイド",
+          "description": "最初の夜の優先順位、コントロール、ストーリー モード、サバイバル モード、および協力プレイのヒント。",
+          "href": "/platforms/something-is-wrong-with-my-dog-roblox"
+        },
+        {
+          "badge": "シリーズ",
+          "title": "シリーズとプラットフォーム",
+          "description": "Roblox ゲーム、Minecraft の適応、アニメーション ストーリーを比較してください。",
+          "href": "/community/something-is-wrong-with-my-dog-series"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Something is Wrong With My Dog とは何ですか?",
+      "paragraphs": [
+        "Something is Wrong With My Dog は、グループ DELTA によって開発され、LookOut2DD のオリジナル シリーズに触発された Roblox ホラー サバイバル ミステリーです。あなたはボブの森に入り、ジェリーという名前のハイイロオオカミに会い、彼に骨を提供し、キャンプを建て、毎晩戻って森の変化を比較します。",
+        "Roblox エクスペリエンスは、ジェリー、ボブ、および 10 のエンディングを中心に構築されたストーリー モードと、同じマップを維持しながら物語レイヤーを削除したサバイバル モードを組み合わせています。ソロプレイでは慎重な探索がサポートされ、最大 8 人のプレイヤーによる協力プレイでは、グループで偵察、キャンプ作業、手がかり追跡を分担できます。"
+      ],
+      "stats": [
+        {
+          "label": "開発者",
+          "value": "DELTA"
+        },
+        {
+          "label": "プラットフォーム",
+          "value": "Roblox"
+        },
+        {
+          "label": "ジャンル",
+          "value": "ホラー サバイバル ミステリー"
+        },
+        {
+          "label": "エンディング",
+          "value": "10"
+        },
+        {
+          "label": "プレイヤー",
+          "value": "1-8"
+        },
+        {
+          "label": "モード",
+          "value": "ストーリーとサバイバル"
+        }
+      ],
+      "cta": "すべてのガイドを調べる"
+    },
+    "explore": {
+      "title": "Something is Wrong With My Dog Wiki を探索する",
+      "description": "最初の夜のループに従い、ジェリーを飼いならし、ボブの地図を解読し、各星系に焦点を当てたガイドを使用してすべてのストーリー ルートを進めてください。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Something is Wrong With My Dog 初心者ガイド",
+          "description": "コントロールから始めて、樹木限界線でジェリーを飼いならし、初期のリソースを収集し、ボブの森での最初の夜の前にキャンプを構築します。",
+          "href": "/guide/something-is-wrong-with-my-dog-how-to-tame-jerry",
+          "displayType": "ステップバイステップ",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "ボブの森にスポーンし、移動については WASD、インベントリについては E、マップについては M を学びます。"
+            },
+            {
+              "label": "2",
+              "detail": "ジェリーに近づく前に、探索、採掘、またはワールドスポーンから骨を 3 つ集めてください。"
+            },
+            {
+              "label": "3",
+              "detail": "骨に E を装備し、右クリックして樹木境界にいるジェリーに提供します。"
+            },
+            {
+              "label": "4",
+              "detail": "キャンプを築き、光が弱まり始める前に近くのランドマークだけを偵察します。"
+            },
+            {
+              "label": "5",
+              "detail": "日が暮れる前に戻り、翌朝ジェリーが置き忘れたものを確認します。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Something is Wrong With My Dog 全エンディングガイド",
+          "description": "ジェリー、ボブ、小屋、墓、ログを追跡して完全なエンディング ランを計画し、それぞれの選択がフィナーレにどのように変化するかを比較します。",
+          "href": "/guide/something-is-wrong-with-my-dog-all-endings",
+          "displayType": "階層グリッド",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "真のエンディング — 引き返せないポイントの前にオプションの発見を完了し、完全なフィナーレを視聴します。"
+            },
+            {
+              "label": "A",
+              "detail": "シークレット エンディング — すべてのエリアを掃除し、ストーリー ビートの後にオブジェクトを再確認し、直接対話を選択します。"
+            },
+            {
+              "label": "B",
+              "detail": "グッドエンディング — ストーリー全体のルートに従い、ジェリーを毎晩そばに置いてください。"
+            },
+            {
+              "label": "C",
+              "detail": "バッドエンド — 手がかりを急いで過ぎて最初の説明を受け入れると、最短の道が閉ざされます。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Something is Wrong With My Dog コード",
+          "description": "検証済みコードのステータスを確認し、引き換えフローを学び、今後の発表については公式 Roblox ページに従ってください。",
+          "href": "/codes/something-is-wrong-with-my-dog-codes",
+          "displayType": "コードカード",
+          "highlights": [
+            {
+              "label": "アクティブではありません",
+              "detail": "2026 年 10 月 23 日の時点で有効な引き換え可能なコードはなく、期限切れのコードは記録されていません。"
+            },
+            {
+              "label": "公式",
+              "detail": "今後のコードドロップについては、Roblox ゲームページと開発者の公式チャンネルをご覧ください。"
+            },
+            {
+              "label": "を引き換える",
+              "detail": "コードが表示された場合は、有効期限が切れる前にそれを正確にコピーし、ゲーム内の引き換えメニューを使用してください。"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Something is Wrong With My Dog コントロール ガイド",
+          "description": "ボブの森を探索しながら、移動、在庫、マップ、攻撃、アイテムのコントロールを調べます。",
+          "href": "/platforms/something-is-wrong-with-my-dog-roblox",
+          "displayType": "コードカード",
+          "highlights": [
+            {
+              "label": "WASD",
+              "detail": "ボブの森と周囲のマップを移動します。"
+            },
+            {
+              "label": "E",
+              "detail": "インベントリを開いて骨を装備し、物資を管理します。"
+            },
+            {
+              "label": "M",
+              "detail": "地図を開いてランドマーク、キャビン、ルートを確認してください。"
+            },
+            {
+              "label": "LMB",
+              "detail": "探索や収集中にブロックを攻撃または破壊します。"
+            },
+            {
+              "label": "人民元",
+              "detail": "アイテムを配置するか、ジェリーに骨を提供するなど、アイテムを使用します。"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Something is Wrong With My Dog ジェリーを飼いならすガイド",
+          "description": "ジェリーを見つけて、正確に 3 つの骨を集め、グッド ボーイ バッジのロックを解除する飼いならすシーケンスを完了します。",
+          "href": "/guide/something-is-wrong-with-my-dog-how-to-tame-jerry",
+          "displayType": "ステップバイステップ",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "森の端で赤い首輪をした痩せた灰色オオカミを探してください。"
+            },
+            {
+              "label": "2",
+              "detail": "在庫を確認し、正確に 3 つの骨を集めてください。"
+            },
+            {
+              "label": "3",
+              "detail": "E を押してボーンを選択し、ジェリーまで歩きます。"
+            },
+            {
+              "label": "4",
+              "detail": "右クリックを使用して、3 つすべてが消費されるまで各骨を提供します。"
+            },
+            {
+              "label": "5",
+              "detail": "Good Boy バッジを確認し、プレイ中はジェリーを近くに置いてください。"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Something is Wrong With My Dog サバイバルガイド",
+          "description": "キャンプを建て、夜の準備をし、リソースを管理し、ジェリーが朝見つけたものを使って次の探索を計画します。",
+          "href": "/platforms/something-is-wrong-with-my-dog-roblox",
+          "displayType": "カードリスト",
+          "highlights": [
+            {
+              "label": "キャンプ",
+              "detail": "早めにキャンプを建てて、最初の夜までに安全な基地を確保しましょう。"
+            },
+            {
+              "label": "夜",
+              "detail": "暗くなる前に戻ってください。夜になると探検はより危険になります。"
+            },
+            {
+              "label": "骨",
+              "detail": "ジェリーのために予備の骨を持ち歩き、毎朝何を持って帰ってくるかをチェックしてください。"
+            },
+            {
+              "label": "地図",
+              "detail": "ボブの地図と偵察中に見つけたランドマークを比較します。"
+            },
+            {
+              "label": "キャビン",
+              "detail": "小屋、墓、ログを注意深く調べて物語の手がかりを見つけてください。"
+            },
+            {
+              "label": "ジェリー",
+              "detail": "ジェリーを近くに置いて、彼の行動や朝の贈り物を追跡しやすくします。"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Something is Wrong With My Dog マップと秘密",
+          "description": "ボブの地図に従って森、洞窟、沼地を移動して小屋、墓、ログを探します。",
+          "href": "/guide/something-is-wrong-with-my-dog-plot-explained",
+          "displayType": "カードリスト",
+          "highlights": [
+            {
+              "label": "森",
+              "detail": "ボブの地図に従って森の中を進み、すべてのランドマークに注目してください。"
+            },
+            {
+              "label": "洞窟",
+              "detail": "洞窟を探索して、見逃しがちな骨、資源、手がかりを探します。"
+            },
+            {
+              "label": "マーシュ",
+              "detail": "ルートとストーリーの詳細については、湿地帯の端を確認してください。"
+            },
+            {
+              "label": "墓",
+              "detail": "主要なストーリーが終了した後に墓を再訪して、何が変化したかを確認してください。"
+            },
+            {
+              "label": "ログ",
+              "detail": "ログを注意深く読んで、ボブのマップに接続してください。"
+            },
+            {
+              "label": "ジェリー",
+              "detail": "ジェリーの朝の贈り物を追跡して、彼が一晩どこに行ったかを知ります。"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Something is Wrong With My Dog ゲームモードとマルチプレイヤー",
+          "description": "ストーリー モード、サバイバル モード、ソロ ラン、最大 8 人のプレーヤーの協力セッションを比較します。",
+          "href": "/platforms/something-is-wrong-with-my-dog-roblox",
+          "displayType": "コードカード",
+          "highlights": [
+            {
+              "label": "ストーリー",
+              "detail": "物語重視のモードで、ジェリー、ボブ、そして 10 のエンディングをたどります。"
+            },
+            {
+              "label": "サバイバル",
+              "detail": "ストーリー レイヤーなしで同じマップを使用し、キャンプの建設とリソースに焦点を当てます。"
+            },
+            {
+              "label": "ソロ",
+              "detail": "一人でプレイして、よりゆっくりとした、より制御された調査を行ってください。"
+            },
+            {
+              "label": "協力プレイ",
+              "detail": "最大 8 人のプレーヤーのセッションに参加し、偵察、キャンプ、メモ取りの役割を分担します。"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問",
+      "description": "Something is Wrong With My Dog に関する最も一般的な質問に対する簡単な回答。",
+      "items": [
+        {
+          "question": "Something is Wrong With My Dog とは何ですか?",
+          "answer": "Something is Wrong With My Dog は、LookOut2DD シリーズにインスピレーションを得た Roblox ホラー サバイバル ミステリーです。あなたはジェリーと一緒にボブの森を探索し、キャンプを建て、毎晩生き残り、物語の結末を変える手がかりを調査します。"
+        },
+        {
+          "question": "Something is Wrong With My Dog は Roblox で利用できますか?",
+          "answer": "はい。 Something is Wrong With My Dog は Roblox エクスペリエンスを通じてプレイされ、ソロで参加することも、友人との協力セッションに参加することもできます。"
+        },
+        {
+          "question": "Something is Wrong With My Dog にはいくつのエンディングがありますか?",
+          "answer": "Something is Wrong With My Dog には 10 のエンディングがあります。ストーリーの選択、オプションの発見、複数のランでたどる手がかりによって、どのフィナーレに到達するかが決まります。"
+        },
+        {
+          "question": "Something is Wrong With My Dog でジェリーを飼い慣らすにはどうすればよいですか?",
+          "answer": "Something is Wrong With My Dog で、ちょうど 3 つの骨を集め、E でインベントリを開き、右クリックを使用して各骨を樹木限界線のジェリーに提供します。 Good Boy バッジは絆を証明します。"
+        },
+        {
+          "question": "Something is Wrong With My Dog をソロまたは協力プレイでプレイできますか?",
+          "answer": "Something is Wrong With My Dog は、ソロプレイと最大 8 人のプレーヤーの協力セッションをサポートします。ソロランは慎重な探索に適していますが、協力プレイではプレイヤーがキャンプの仕事、偵察、手がかりの追跡を分担できます。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "真実を明らかにする準備はできていますか?",
+      "description": "森での最初の夜からすべての隠されたエンディングまで、私たちのコミュニティ Wiki ではジェリー、生存、手がかり、ストーリー ルートを無料の最新ガイドでカバーしています。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "Roblox でプレイする"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Something is Wrong With My Dog ガイド",
+    "overviewDescription": "Something is Wrong With My Dog の初心者向けウォークスルー、ジェリーの飼いならす手順、サバイバルの基本、および章ごとのストーリー ヘルプから始めます。"
+  },
+  "endings": {
+    "overviewTitle": "Something is Wrong With My Dog エンディング",
+    "overviewDescription": "良い結末、悪い結末、秘密の結末、そして真の結末を含む 10 の結末すべてを、各フィナーレの背後にある選択肢の明確な説明とともに比較します。"
+  },
+  "characters": {
+    "overviewTitle": "Something is Wrong With My Dog キャラクター",
+    "overviewDescription": "Something is Wrong With My Dog の中心にいるジェリー、スキンウォーカー、偽犬、その他の不穏な人物たちをご紹介します。"
+  },
+  "mechanics": {
+    "overviewTitle": "Something is Wrong With My Dog メカニクス",
+    "overviewDescription": "Something is Wrong With My Dog で毎晩形作られる犬の行動、隠された秘密、脱出方法、生存ルールを理解しましょう。"
+  },
+  "platforms": {
+    "overviewTitle": "Something is Wrong With My Dog プラットフォーム",
+    "overviewDescription": "Roblox、Minecraft、Minecraft Bedrock、MOD のバージョンで Something is Wrong With My Dog を検索し、各プラットフォームのセットアップの詳細を確認します。"
+  },
+  "community": {
+    "overviewTitle": "Something is Wrong With My Dog コミュニティ",
+    "overviewDescription": "Reddit のディスカッション、ファン アート、反応、Something is Wrong With My Dog をコミュニティ現象に変えたバイラル シリーズをフォローしてください。"
+  },
+  "codes": {
+    "overviewTitle": "Something is Wrong With My Dog コード",
+    "overviewDescription": "Something is Wrong With My Dog の最新のコード ステータスを確認し、新しいコードがリリースされるたびに報酬を引き換える方法を学びましょう。"
+  },
+  "shared": {
+    "wikiNavigation": "Wiki ナビゲーション",
+    "activeCodes": "アクティブ コード",
+    "updated": "更新されました",
+    "viewAllCodes": "すべてのコードを表示",
+    "playOnRoblox": "Roblox でプレイする",
+    "inThisSection": "このセクションの内容",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "助けが必要ですか?",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "利用可能なガイドはまだありません。すぐにまたチェックしてください!"
+  },
+  "footer": {
+    "aboutTitle": "Something is Wrong With My Dog Wiki",
+    "about": "Something is Wrong With My Dog Wiki は、ファンが作成した独立したガイド ハブで、狼ジェリー、生存戦略、物語のヒント、エンディング、秘密、および新規プレイヤーとベテラン プレイヤーの両方に必要なゲームプレイの知識をカバーしています。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法務",
+    "copyright": "2026 Something is Wrong With My Dog Wiki。ゲーム開発者やRobloxとは無関係です。",
+    "description": "狼ジェリー、10 のエンディング、および隠されたストーリーの手がかりをフィーチャーした Roblox 心理的ホラー サバイバル アドベンチャー。",
+    "playGame": "Roblox でプレイする",
+    "officialDiscord": "コミュニティ Discord",
+    "officialYoutube": "YouTube のゲームプレイ ビデオ",
+    "vvBuilder": "エンディングと秘密ガイド",
+    "beginnerGuide": "初心者ガイド",
+    "endingGuides": "エンディングガイド",
+    "characterGuides": "キャラクターガイド",
+    "mechanicGuides": "メカニクスとサバイバル",
+    "platformGuides": "プラットフォーム ガイド",
+    "privacyPolicy": "プライバシー ポリシー",
+    "termsOfService": "利用規約"
+  }
+}

@@ -1,1 +1,481 @@
-{}
+{
+  "site": {
+    "name": "Something is Wrong With My Dog Wiki",
+    "shortName": "Something is Wrong With My Dog",
+    "tagline": "Jerry, el lobo: supervivencia, finales y secretos",
+    "description": "Explora Something is Wrong With My Dog con consejos para principiantes, detalles de Jerry, el lobo, pistas de la historia, estrategias de supervivencia, guías de finales, secretos y ayuda para el juego de Roblox.",
+    "legalNotice": "Wiki de fans no oficial. No afiliado al desarrollador del juego ni a Roblox."
+  },
+  "nav": {
+    "menu": "Menú",
+    "toggleTheme": "Alternar tema",
+    "guide": "Guía",
+    "endings": "Finales",
+    "characters": "Personajes",
+    "mechanics": "Mecánica",
+    "platforms": "Plataformas",
+    "community": "Comunidad",
+    "codes": "Códigos"
+  },
+  "home": {
+    "meta": {
+      "title": "Something is Wrong With My Dog Wiki - Finales y guía",
+      "description": "Explora Something is Wrong With My Dog con consejos para principiantes, detalles de Jerry, el lobo, pistas de la historia, estrategias de supervivencia, guías de finales, secretos y ayuda para el juego de Roblox."
+    },
+    "hero": {
+      "eyebrow": "Aventura de terror y supervivencia en Roblox",
+      "title": "Something is Wrong With My Dog Wiki",
+      "description": "Explora el bosque, cuida de Jerry el lobo, sobrevive cada noche, descubre pistas ocultas de la historia y descubre los 10 finales en Something is Wrong With My Dog.",
+      "stats": [
+        "Más de 1 millón de visitas totales",
+        "10 finales disponibles",
+        "Solo y cooperativo",
+        "Modo de supervivencia"
+      ],
+      "primaryCta": "Iniciar la guía para principiantes",
+      "secondaryCta": "Jugar en Roblox",
+      "tertiaryCta": "Ver juego",
+      "videoLabel": "Vídeo de juego relacionado"
+    },
+    "updates": {
+      "title": "Últimas actualizaciones",
+      "browse": "Explorar todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu viaje Something is Wrong With My Dog",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Aprende los controles, domestica a Jerry con tres huesos, construye tu primer campamento y sobrevive hasta la mañana."
+        },
+        {
+          "number": "2",
+          "title": "Cómo domesticar a Jerry",
+          "description": "Encuentra al lobo gris en la línea de árboles, reúne tres huesos y desbloquea la insignia de Buen Chico."
+        },
+        {
+          "number": "3",
+          "title": "Modo de supervivencia",
+          "description": "Crea una rutina de campamento repetible, gestiona recursos y regresa antes del anochecer."
+        },
+        {
+          "number": "4",
+          "title": "Los 10 finales",
+          "description": "Sigue la ruta de la historia, compara las pistas de la mañana y vuelve a jugar para descubrir cada final."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias actuales",
+      "quickLinks": [
+        "Domesticar a Jerry",
+        "Todos los finales",
+        "Estado de códigos",
+        "Modo de supervivencia"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes",
+          "description": "Controles, domesticación de Jerry, construcción de campamentos y la rutina de la primera noche en el bosque de Bob.",
+          "href": "/guide/something-is-wrong-with-my-dog-how-to-tame-jerry"
+        },
+        {
+          "badge": "Misterio",
+          "title": "Los 10 finales",
+          "description": "Traza las rutas de la historia detrás de los finales buenos, malos, verdaderos y secretos.",
+          "href": "/guide/something-is-wrong-with-my-dog-all-endings"
+        },
+        {
+          "badge": "Estado",
+          "title": "Estado de códigos",
+          "description": "Consulta la lista de códigos verificados, los pasos de canje y las fuentes oficiales para seguirlas.",
+          "href": "/codes/something-is-wrong-with-my-dog-codes"
+        },
+        {
+          "badge": "Personaje",
+          "title": "Jerry, el lobo",
+          "description": "Conoce al lobo gris con el collar rojo y sigue su papel a lo largo de la historia.",
+          "href": "/characters/something-is-wrong-with-my-dog-jerry-dog"
+        },
+        {
+          "badge": "Roblox",
+          "title": "Guía de supervivencia de Roblox",
+          "description": "Prioridades de la primera noche, controles, modo Historia, modo Supervivencia y consejos cooperativos.",
+          "href": "/platforms/something-is-wrong-with-my-dog-roblox"
+        },
+        {
+          "badge": "Serie",
+          "title": "Series y Plataformas",
+          "description": "Compara el juego Roblox, las adaptaciones de Minecraft y la historia animada.",
+          "href": "/community/something-is-wrong-with-my-dog-series"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Something is Wrong With My Dog?",
+      "paragraphs": [
+        "Something is Wrong With My Dog es un misterio de supervivencia de terror de Roblox desarrollado por el grupo DELTA e inspirado en la serie original de LookOut2DD. Entras en el bosque de Bob, te encuentras con un lobo gris llamado Jerry, le ofreces huesos, construyes un campamento y regresas cada noche para comparar lo que cambió en el bosque.",
+        "La experiencia Roblox combina un modo historia construido alrededor de Jerry, Bob y 10 finales con un modo de supervivencia que mantiene el mismo mapa pero elimina la capa narrativa. El juego en solitario permite una exploración cuidadosa, mientras que las sesiones cooperativas para hasta ocho jugadores permiten que los grupos divida la exploración, el trabajo en el campamento y el seguimiento de pistas."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "DELTA"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Género",
+          "value": "Terror Supervivencia Misterio"
+        },
+        {
+          "label": "Finales",
+          "value": "10"
+        },
+        {
+          "label": "Jugadores",
+          "value": "1-8"
+        },
+        {
+          "label": "Modos",
+          "value": "Historia y supervivencia"
+        }
+      ],
+      "cta": "Explorar todas las guías"
+    },
+    "explore": {
+      "title": "Explorar Something is Wrong With My Dog Wiki",
+      "description": "Sigue el circuito de la primera noche, domestica a Jerry, decodifica el mapa de Bob y recorre cada ruta de la historia con guías enfocadas para cada sistema.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Something is Wrong With My Dog Guía para principiantes",
+          "description": "Comienza con los controles, domestica a Jerry en la línea de árboles, reúne recursos tempranos y construye un campamento antes de tu primera noche en el bosque de Bob.",
+          "href": "/guide/something-is-wrong-with-my-dog-how-to-tame-jerry",
+          "displayType": "paso a paso",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Aparece en el bosque de Bob y aprende WASD para el movimiento, E para el inventario y M para el mapa."
+            },
+            {
+              "label": "2",
+              "detail": "Recoge tres huesos de exploración, minería o generación de mundos antes de acercarte a Jerry."
+            },
+            {
+              "label": "3",
+              "detail": "Equipa los huesos con E y ofrécelos a Jerry en la línea de árboles con clic derecho."
+            },
+            {
+              "label": "4",
+              "detail": "Construye un campamento y explora solo los puntos de referencia cercanos antes de que la luz comience a desvanecerse."
+            },
+            {
+              "label": "5",
+              "detail": "Regresa antes del anochecer y luego revisa lo que Jerry dejó a la mañana siguiente."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Something is Wrong With My Dog Guía de todos los finales",
+          "description": "Planifica un final completo rastreando a Jerry, Bob, la cabaña, la tumba y el tronco, luego compara cómo cada elección cambia el final.",
+          "href": "/guide/something-is-wrong-with-my-dog-all-endings",
+          "displayType": "cuadrícula de niveles",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Final verdadero: completa descubrimientos opcionales antes del punto sin retorno y mira el final completo."
+            },
+            {
+              "label": "A",
+              "detail": "Final secreto: barre cada área, vuelve a verificar los objetos después del ritmo de la historia y elige el diálogo directo."
+            },
+            {
+              "label": "B",
+              "detail": "Buen final: sigue la ruta completa de la historia y mantén a Jerry cerca todas las noches."
+            },
+            {
+              "label": "C",
+              "detail": "Mal final: pasar por alto las pistas y aceptar la primera explicación cierra el camino más corto."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Códigos de Something is Wrong With My Dog",
+          "description": "Verifica el estado del código, conoce el flujo de canje y sigue la página oficial de Roblox para futuros anuncios.",
+          "href": "/codes/something-is-wrong-with-my-dog-codes",
+          "displayType": "tarjetas de código",
+          "highlights": [
+            {
+              "label": "NINGÚN ACTIVO",
+              "detail": "No hay códigos canjeables disponibles al 23 de octubre de 2026 y no se han registrado códigos caducados."
+            },
+            {
+              "label": "OFICIAL",
+              "detail": "Mire la página del juego Roblox y los canales oficiales del desarrollador para conocer futuros lanzamientos de código."
+            },
+            {
+              "label": "CANJEAR",
+              "detail": "Si aparece un código, cópialo exactamente y usa el menú de canje del juego antes de que caduque."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guía de controles de Something is Wrong With My Dog",
+          "description": "Busque controles de movimiento, inventario, mapa, ataque y elementos mientras explora el bosque de Bob.",
+          "href": "/platforms/something-is-wrong-with-my-dog-roblox",
+          "displayType": "tarjetas de código",
+          "highlights": [
+            {
+              "label": "WASD",
+              "detail": "Muévete por el bosque de Bob y el mapa circundante."
+            },
+            {
+              "label": "E",
+              "detail": "Abre tu inventario para equipar huesos y administrar suministros."
+            },
+            {
+              "label": "M",
+              "detail": "Abre el mapa para comprobar los puntos de referencia, la cabina y tu ruta."
+            },
+            {
+              "label": "LMB",
+              "detail": "Ataca o rompe bloques mientras exploras y recolectas."
+            },
+            {
+              "label": "RMB",
+              "detail": "Coloca objetos o úsalos, incluso ofreciendo huesos a Jerry."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Something is Wrong With My Dog Guía de domesticación de Jerry",
+          "description": "Encuentra a Jerry, reúne exactamente tres huesos y completa la secuencia de domesticación que desbloquea la insignia de Buen Chico.",
+          "href": "/guide/something-is-wrong-with-my-dog-how-to-tame-jerry",
+          "displayType": "paso a paso",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Busca al lobo gris delgado con un collar rojo en el borde del bosque."
+            },
+            {
+              "label": "2",
+              "detail": "Revisa tu inventario y reúne exactamente tres huesos."
+            },
+            {
+              "label": "3",
+              "detail": "Presiona E, selecciona los huesos y camina hacia Jerry."
+            },
+            {
+              "label": "4",
+              "detail": "Usa el clic derecho para ofrecer cada hueso hasta que se consuman los tres."
+            },
+            {
+              "label": "5",
+              "detail": "Confirma la insignia de Buen Chico y mantén a Jerry cerca durante la carrera."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Something is Wrong With My Dog Guía de supervivencia",
+          "description": "Construye un campamento, prepárate para la noche, gestiona recursos y utiliza los hallazgos matutinos de Jerry para planificar la próxima carrera.",
+          "href": "/platforms/something-is-wrong-with-my-dog-roblox",
+          "displayType": "lista de tarjetas",
+          "highlights": [
+            {
+              "label": "Campamento",
+              "detail": "Construye un campamento temprano para tener una base segura antes de la primera noche."
+            },
+            {
+              "label": "Noche",
+              "detail": "Regresa antes de que oscurezca; la exploración se vuelve más peligrosa después del anochecer."
+            },
+            {
+              "label": "Huesos",
+              "detail": "Lleva huesos de repuesto para Jerry y comprueba lo que trae cada mañana."
+            },
+            {
+              "label": "Mapa",
+              "detail": "Compara el mapa de Bob con los puntos de referencia que encuentres mientras exploras."
+            },
+            {
+              "label": "Cabina",
+              "detail": "Busca cuidadosamente en la cabaña, la tumba y el registro en busca de pistas de la historia."
+            },
+            {
+              "label": "Jerry",
+              "detail": "Mantén a Jerry cerca para que sea más fácil rastrear su comportamiento y sus regalos matutinos."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Something is Wrong With My Dog Mapa y secretos",
+          "description": "Navega por el bosque, las cuevas y el pantano mientras sigues el mapa de Bob hasta la cabaña, la tumba y el tronco.",
+          "href": "/guide/something-is-wrong-with-my-dog-plot-explained",
+          "displayType": "lista de tarjetas",
+          "highlights": [
+            {
+              "label": "Bosque",
+              "detail": "Sigue el mapa de Bob a través del bosque y observa cada punto de referencia."
+            },
+            {
+              "label": "Cuevas",
+              "detail": "Busca en cuevas huesos, recursos y pistas que sean fáciles de pasar por alto."
+            },
+            {
+              "label": "Pantano",
+              "detail": "Revisa los bordes de las marismas para conocer rutas y detalles de la historia."
+            },
+            {
+              "label": "Tumba",
+              "detail": "Vuelve a visitar la tumba después de que comience la historia principal para ver qué cambia."
+            },
+            {
+              "label": "Registro",
+              "detail": "Lee el registro atentamente y conéctalo al mapa de Bob."
+            },
+            {
+              "label": "Jerry",
+              "detail": "Realice un seguimiento de los regalos matutinos de Jerry para saber adónde fue durante la noche."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Something is Wrong With My Dog Modos de juego y multijugador",
+          "description": "Compara el modo Historia, el modo Supervivencia, carreras en solitario y sesiones cooperativas para hasta ocho jugadores.",
+          "href": "/platforms/something-is-wrong-with-my-dog-roblox",
+          "displayType": "tarjetas de código",
+          "highlights": [
+            {
+              "label": "HISTORIA",
+              "detail": "Sigue a Jerry, Bob y los 10 finales en el modo centrado en la narrativa."
+            },
+            {
+              "label": "SUPERVIVENCIA",
+              "detail": "Usa el mismo mapa sin la capa de historia y concéntrate en la construcción del campamento y los recursos."
+            },
+            {
+              "label": "SOLITARIO",
+              "detail": "Juega solo para una investigación más lenta y controlada."
+            },
+            {
+              "label": "COOPERATIVO",
+              "detail": "Únase a sesiones de hasta ocho jugadores y divida las funciones de exploración, campamento y toma de notas."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "description": "Respuestas rápidas a las preguntas más comunes sobre Something is Wrong With My Dog.",
+      "items": [
+        {
+          "question": "¿Qué es Something is Wrong With My Dog?",
+          "answer": "Something is Wrong With My Dog es un misterio de supervivencia de terror de Roblox inspirado en la serie de LookOut2DD. Exploras el bosque de Bob con Jerry, construyes un campamento, sobrevives cada noche e investigas las pistas que cambian el final de la historia."
+        },
+        {
+          "question": "¿Está Something is Wrong With My Dog disponible en Roblox?",
+          "answer": "Sí. Something is Wrong With My Dog se juega a través de su experiencia Roblox, donde puedes ingresar solo o unirte a una sesión cooperativa con amigos."
+        },
+        {
+          "question": "¿Cuántos finales tiene Something is Wrong With My Dog?",
+          "answer": "Something is Wrong With My Dog tiene 10 finales. Las elecciones de historias, los descubrimientos opcionales y las pistas que sigues a lo largo de múltiples ejecuciones determinan el final al que llegas."
+        },
+        {
+          "question": "¿Cómo domesticas a Jerry en Something is Wrong With My Dog?",
+          "answer": "En Something is Wrong With My Dog, reúne exactamente tres huesos, abre tu inventario con E y usa el clic derecho para ofrecer cada hueso a Jerry en la línea de árboles. La insignia de Good Boy confirma el vínculo."
+        },
+        {
+          "question": "¿Puedes jugar Something is Wrong With My Dog solo o en modo cooperativo?",
+          "answer": "Something is Wrong With My Dog admite juegos en solitario y sesiones cooperativas para hasta ocho jugadores. Las carreras en solitario se adaptan a una exploración cuidadosa, mientras que el modo cooperativo permite a los jugadores dividir el trabajo del campamento, la exploración y el seguimiento de pistas."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para descubrir la verdad?",
+      "description": "Desde tu primera noche en el bosque hasta cada final oculto, nuestra wiki comunitaria cubre Jerry, la supervivencia, las pistas y las rutas de la historia con guías gratuitas y actualizadas.",
+      "primary": "Lee la guía para principiantes",
+      "secondary": "Jugar en Roblox"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guías de Something is Wrong With My Dog",
+    "overviewDescription": "Empieza con tutoriales para principiantes, pasos para domesticar a Jerry, conceptos básicos de supervivencia y ayuda para la historia capítulo por capítulo para Something is Wrong With My Dog."
+  },
+  "endings": {
+    "overviewTitle": "Something is Wrong With My Dog Finales",
+    "overviewDescription": "Compara los 10 finales, incluidos los resultados buenos, malos, secretos y verdaderos, con explicaciones claras de las opciones detrás de cada final."
+  },
+  "characters": {
+    "overviewTitle": "Personajes de Something is Wrong With My Dog",
+    "overviewDescription": "Conoce a Jerry, el skinwalker, el perro falso y las otras figuras inquietantes en el centro de Something is Wrong With My Dog."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánica de Something is Wrong With My Dog",
+    "overviewDescription": "Comprende el comportamiento de los perros, los secretos ocultos, los métodos de escape y las reglas de supervivencia que dan forma a cada noche en Something is Wrong With My Dog."
+  },
+  "platforms": {
+    "overviewTitle": "Plataformas de Something is Wrong With My Dog",
+    "overviewDescription": "Encuentra Something is Wrong With My Dog en Roblox, Minecraft, Minecraft Bedrock y versiones mod, con detalles de configuración para cada plataforma."
+  },
+  "community": {
+    "overviewTitle": "Comunidad Something is Wrong With My Dog",
+    "overviewDescription": "Sigue las discusiones de Reddit, los fan art, las reacciones y la serie viral que convirtió a Something is Wrong With My Dog en un fenómeno comunitario."
+  },
+  "codes": {
+    "overviewTitle": "Códigos Something is Wrong With My Dog",
+    "overviewDescription": "Verifica el estado del código más reciente para Something is Wrong With My Dog y aprende cómo canjear recompensas cada vez que se publiquen nuevos códigos."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación Wiki",
+    "activeCodes": "Códigos Activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Tabla de contenidos",
+    "nextSteps": "Próximos pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lectura relacionada",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Something is Wrong With My Dog Wiki",
+    "about": "Something is Wrong With My Dog Wiki es un centro de guías independiente creado por fanáticos que cubre Jerry, el lobo, estrategias de supervivencia, pistas de historias, finales, secretos y conocimientos de juego esenciales para jugadores nuevos y veteranos por igual.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Something is Wrong With My Dog Wiki. No afiliado al desarrollador del juego ni a Roblox.",
+    "description": "Aventura de supervivencia de terror psicológico de Roblox con Jerry, el lobo, 10 finales y pistas de historias ocultas.",
+    "playGame": "Juega en Roblox",
+    "officialDiscord": "Discord de la comunidad",
+    "officialYoutube": "Vídeo del juego en YouTube",
+    "vvBuilder": "Guía de finales y secretos",
+    "beginnerGuide": "Guía para principiantes",
+    "endingGuides": "Guías de finales",
+    "characterGuides": "Guías de personajes",
+    "mechanicGuides": "Mecánica y supervivencia",
+    "platformGuides": "Guías de plataforma",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio"
+  }
+}
