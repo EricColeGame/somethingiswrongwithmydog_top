@@ -8,7 +8,14 @@
   },
   "nav": {
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "endings": "Endings",
+    "characters": "Characters",
+    "mechanics": "Mechanics",
+    "platforms": "Platforms",
+    "community": "Community",
+    "codes": "Codes"
   },
   "home": {
     "meta": {
@@ -406,7 +413,34 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Something is Wrong With My Dog Guides",
+    "overviewDescription": "Start with beginner walkthroughs, Jerry taming steps, survival basics, and chapter-by-chapter story help for Something is Wrong With My Dog."
+  },
+  "endings": {
+    "overviewTitle": "Something is Wrong With My Dog Endings",
+    "overviewDescription": "Compare all 10 endings, including good, bad, secret, and true outcomes, with clear explanations of the choices behind each finale."
+  },
+  "characters": {
+    "overviewTitle": "Something is Wrong With My Dog Characters",
+    "overviewDescription": "Meet Jerry, the skinwalker, the fake dog, and the other unsettling figures at the center of Something is Wrong With My Dog."
+  },
+  "mechanics": {
+    "overviewTitle": "Something is Wrong With My Dog Mechanics",
+    "overviewDescription": "Understand dog behavior, hidden secrets, escape methods, and the survival rules that shape every night in Something is Wrong With My Dog."
+  },
+  "platforms": {
+    "overviewTitle": "Something is Wrong With My Dog Platforms",
+    "overviewDescription": "Find Something is Wrong With My Dog on Roblox, Minecraft, Minecraft Bedrock, and mod versions, with setup details for each platform."
+  },
+  "community": {
+    "overviewTitle": "Something is Wrong With My Dog Community",
+    "overviewDescription": "Follow Reddit discussion, fan art, reactions, and the viral series that turned Something is Wrong With My Dog into a community phenomenon."
+  },
+  "codes": {
+    "overviewTitle": "Something is Wrong With My Dog Codes",
+    "overviewDescription": "Check the latest code status for Something is Wrong With My Dog and learn how to redeem rewards whenever new codes are released."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -437,9 +471,10 @@
     "officialYoutube": "Gameplay Video on YouTube",
     "vvBuilder": "Endings & Secrets Guide",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "endingGuides": "Ending Guides",
+    "characterGuides": "Character Guides",
+    "mechanicGuides": "Mechanics & Survival",
+    "platformGuides": "Platform Guides",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
