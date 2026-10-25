@@ -1,10 +1,10 @@
 {
   "site": {
-    "name": "Wiki My Seafood Stand",
-    "shortName": "My Seafood Stand",
-    "tagline": "Guides complets, codes, recettes et tier lists",
-    "description": "Votre guide ultime pour My Seafood Stand sur Roblox ! Découvrez les codes actifs, les recettes de fruits de mer, les meilleures améliorations, les stratégies de profit et les guides de progression.",
-    "legalNotice": "Wiki de fans non officiel. Fait par des joueurs, pour des joueurs."
+    "name": "Something is Wrong With My Dog Wiki",
+    "shortName": "Something is Wrong With My Dog",
+    "tagline": "Jerry le loup, survie, fins et secrets",
+    "description": "Explorez Something is Wrong With My Dog avec des conseils pour débutants, des détails sur Jerry le loup, des indices scénaristiques, des stratégies de survie, des guides des fins, des secrets et de l’aide pour le gameplay Roblox.",
+    "legalNotice": "Wiki de fans non officiel. Non affilié au développeur du jeu ni à Roblox."
   },
   "nav": {
     "races": "Races",
@@ -26,23 +26,23 @@
   },
   "home": {
     "meta": {
-      "title": "Wiki My Seafood Stand — Codes, recettes, améliorations et guides",
-      "description": "Guide complet de My Seafood Stand sur Roblox avec les codes actifs valides, tous les poissons et recettes, la tier list des meilleures améliorations et des astuces pour gagner de l'argent rapidement."
+      "title": "Something is Wrong With My Dog Wiki - Fins et guide",
+      "description": "Explorez Something is Wrong With My Dog avec des conseils pour débutants, des détails sur Jerry le loup, des indices scénaristiques, des stratégies de survie, des guides des fins, des secrets et de l’aide pour le gameplay Roblox."
     },
     "hero": {
-      "eyebrow": "Wiki communautaire créé par des fans",
-      "title": "My Seafood Stand",
-      "description": "Gérez parfaitement votre restaurant dans My Seafood Stand sur Roblox. Accédez à tous les codes actifs, au catalogue complet des poissons et recettes, aux améliorations optimales et aux meilleures stratégies pour vous enrichir.",
+      "eyebrow": "Aventure d’horreur et de survie sur Roblox",
+      "title": "Something is Wrong With My Dog Wiki",
+      "description": "Explorez la forêt, prenez soin de Jerry le loup, survivez chaque nuit, découvrez des indices cachés et trouvez les 10 fins de Something is Wrong With My Dog.",
       "stats": [
-        "Tous les codes",
-        "Tous les poissons et recettes",
-        "Guides d'amélioration",
-        "Astuces argent rapide"
+        "Plus de 1 M de visites",
+        "10 fins",
+        "Solo et coopération",
+        "Mode survie"
       ],
-      "primaryCta": "Guide du débutant",
-      "secondaryCta": "Tier List des fruits de mer",
-      "tertiaryCta": "Codes actifs",
-      "videoLabel": "Média officiel"
+      "primaryCta": "Commencer le guide débutant",
+      "secondaryCta": "Jouer sur Roblox",
+      "tertiaryCta": "Regarder le gameplay",
+      "videoLabel": "Vidéo de gameplay associée"
     },
     "updates": {
       "title": "Dernières mises à jour",
@@ -51,7 +51,7 @@
     },
     "start": {
       "eyebrow": "Commencez ici",
-      "title": "Votre aventure dans My Seafood Stand",
+      "title": "Votre aventure dans Something is Wrong With My Dog",
       "cards": [
         {
           "number": "1",
@@ -71,7 +71,7 @@
         {
           "number": "4",
           "title": "Comment extraire",
-          "description": "Découvrez les meilleures méthodes et emplacements pour extraire des ressources dans My Seafood Stand."
+          "description": "Découvrez les meilleures méthodes et emplacements pour extraire des ressources dans Something is Wrong With My Dog."
         }
       ]
     },
@@ -142,15 +142,15 @@
       ]
     },
     "aboutGame": {
-      "title": "Qu'est-ce que My Seafood Stand ?",
+      "title": "Qu'est-ce que Something is Wrong With My Dog ?",
       "paragraphs": [
-        "My Seafood Stand est un RPG de combat stylisé sur Roblox inspiré de l'univers de l'anime Bleach. Choisissez parmi trois races jouables — Shinigami, Quincy ou Hollow — chacune dotée de systèmes de progression uniques, de capacités à débloquer et de voies d'évolution. Maîtrisez plus de 130 compétences tout en vous frayant un chemin jusqu'au niveau maximum 100.",
+        "Something is Wrong With My Dog est un RPG de combat stylisé sur Roblox inspiré de l'univers de l'anime Bleach. Choisissez parmi trois races jouables — Shinigami, Quincy ou Hollow — chacune dotée de systèmes de progression uniques, de capacités à débloquer et de voies d'évolution. Maîtrisez plus de 130 compétences tout en vous frayant un chemin jusqu'au niveau maximum 100.",
         "Que vous débloquiez votre premier Shikai, évoluiez d'un simple Hollow en un Arrancar, ou enchaîniez les missions de lieutenant Quincy, notre wiki couvre chaque système avec des guides détaillés, des tableaux de données et des pas-à-pas complets."
       ],
       "stats": [
         {
           "label": "Développeur",
-          "value": "Midnight Continent"
+          "value": "Unconfirmed"
         },
         {
           "label": "Plateforme",
@@ -180,14 +180,14 @@
       "cta": "Explorer tous les guides"
     },
     "explore": {
-      "title": "Explorer le Wiki My Seafood Stand",
+      "title": "Explorer le Wiki Something is Wrong With My Dog",
       "description": "Gérez au mieux votre restaurant de fruits de mer sur Roblox grâce aux guides de progression incontournables, codes actifs, catalogues complets de poissons et recettes, et stratégies d'amélioration optimales.",
       "modules": [
         {
           "order": 1,
-          "name": "Codes actifs de My Seafood Stand",
+          "name": "Codes actifs de Something is Wrong With My Dog",
           "description": "Utilisez les derniers codes actifs pour obtenir des pièces gratuites, des gemmes, des cosmétiques exclusifs et des objets de boost avant leur expiration.",
-          "href": "/codes/my-seafood-stand-codes",
+          "href": "/codes/something-is-wrong-with-my-dog-codes",
           "displayType": "code-box",
           "highlights": [
             {
@@ -208,7 +208,7 @@
           "order": 2,
           "name": "Guide du débutant : Comment commencer et servir les clients",
           "description": "Guide étape par étape pour débutants couvrant la prise de commande, la préparation des plats, la gestion des postes de travail et l'encaissement.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
+          "href": "/guide/something-is-wrong-with-my-dog-beginner-guide",
           "displayType": "feature-cards",
           "highlights": [
             {
@@ -229,7 +229,7 @@
           "order": 3,
           "name": "Tier List des poissons et fruits de mer",
           "description": "Présentation complète de tous les poissons et fruits de mer pêchables, classés par valeur marchande, demande des clients et marges bénéficiaires.",
-          "href": "/seafood/my-seafood-stand-tier-list",
+          "href": "/seafood/something-is-wrong-with-my-dog-tier-list",
           "displayType": "tier-grid",
           "highlights": [
             {
@@ -254,7 +254,7 @@
           "order": 4,
           "name": "Ordre optimal des améliorations",
           "description": "Ordre optimal pour dépenser votre argent : agrandir les postes de cuisine, embaucher des serveurs, accélérer les grills et améliorer les places assises.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
+          "href": "/upgrades/something-is-wrong-with-my-dog-best-upgrades",
           "displayType": "feature-cards",
           "highlights": [
             {
@@ -275,7 +275,7 @@
           "order": 5,
           "name": "Comment gagner de l'argent rapidement",
           "description": "Meilleures stratégies de gain d'argent, évaluation des VIP, maximisation des pourboires et astuces de service à haute efficacité.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
+          "href": "/guide/something-is-wrong-with-my-dog-how-to-get-cash-fast",
           "displayType": "feature-cards",
           "highlights": [
             {
@@ -296,7 +296,7 @@
           "order": 6,
           "name": "Agrandissement du terrain et personnalisation du stand",
           "description": "Débloquez des parcelles de terrain plus grandes, organisez des agencements de cuisine optimaux et ajoutez des décorations à haute valeur ajoutée.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
+          "href": "/upgrades/something-is-wrong-with-my-dog-how-to-upgrade-plot",
           "displayType": "feature-cards",
           "highlights": [
             {
@@ -317,11 +317,11 @@
     },
     "faq": {
       "title": "Foire aux questions",
-      "description": "Réponses rapides aux questions les plus fréquentes sur My Seafood Stand.",
+      "description": "Réponses rapides aux questions les plus fréquentes sur Something is Wrong With My Dog.",
       "items": [
         {
-          "question": "Qu'est-ce que My Seafood Stand ?",
-          "answer": "My Seafood Stand est un RPG de combat gratuit sur Roblox inspiré de l'anime Bleach. Vous choisissez l'une des mécaniques de jeu : Shinigami (faucheur d'âmes), Quincy ou Hollow, chacune dotée d'une progression, de capacités de combat et de systèmes d'évolution uniques. Le jeu propose plus de 130 compétences, un niveau maximum de 100, des combats de boss et une personnalisation poussée des builds."
+          "question": "Qu'est-ce que Something is Wrong With My Dog ?",
+          "answer": "Something is Wrong With My Dog est un RPG de combat gratuit sur Roblox inspiré de l'anime Bleach. Vous choisissez l'une des mécaniques de jeu : Shinigami (faucheur d'âmes), Quincy ou Hollow, chacune dotée d'une progression, de capacités de combat et de systèmes d'évolution uniques. Le jeu propose plus de 130 compétences, un niveau maximum de 100, des combats de boss et une personnalisation poussée des builds."
         },
         {
           "question": "Quelle race les débutants devraient-ils choisir ?",
@@ -342,20 +342,20 @@
       ]
     },
     "finalCta": {
-      "title": "Prêt à maîtriser My Seafood Stand ?",
-      "description": "De vos premiers pas à Fort Adams jusqu'aux combats de boss de fin de jeu, notre wiki communautaire vous accompagne avec des guides gratuits et mis à jour.",
+      "title": "Prêt à découvrir la vérité ?",
+      "description": "De votre première nuit dans la forêt à chaque fin cachée, notre wiki communautaire couvre Jerry, la survie, les indices et les routes narratives avec des guides gratuits et à jour.",
       "primary": "Lire le guide du débutant",
       "secondary": "Jouer sur Roblox"
     }
   },
   "bosses": {
     "meta": {
-      "title": "Boss — Guide complet et cheminement | Wiki My Seafood Stand",
-      "description": "Guides complets des boss pour My Seafood Stand — tous les boss, du chevalier Gelum du tutoriel aux rencontres de fin de jeu, avec stratégies, butins et temps de réapparition."
+      "title": "Boss — Guide complet et cheminement | Wiki Something is Wrong With My Dog",
+      "description": "Guides complets des boss pour Something is Wrong With My Dog — tous les boss, du chevalier Gelum du tutoriel aux rencontres de fin de jeu, avec stratégies, butins et temps de réapparition."
     },
     "overviewTitle": "Aperçu des boss",
-    "overviewDescription": "Guides complets pour chaque combat de boss dans My Seafood Stand : 13 boss, du chevalier Gelum du tutoriel jusqu'aux affrontements de fin de jeu comme le Gelid Dweller et les défis du Gauntlet.",
-    "body": "Les boss de My Seafood Stand servent de paliers de compétences et d'étapes clés de progression. Certains, comme Gelum, vous enseignent les bases du combat durant le tutoriel. D'autres, comme l'Esprit du Shikai et l'Esprit de la Resurrección, sont des affrontements dans le monde intérieur directement liés au déblocage de la puissance de votre race. Les boss de zone comme Dragonfly, King Croc et Securis gardent l'accès aux nouvelles zones et récompenses. Les ajouts récents incluent le Rogue Commander et ses sbires, The Everfrosted sur le thème de la glace, ainsi que quatre tout nouveaux boss de fin de jeu : The Gelid Dweller, Cinder of the Broken Sky, Devourer of Hosts et le bretteur errant (Junichiro). Chaque boss possède des schémas d'attaque distincts et des mouvements annoncés à maîtriser. Utilisez les guides ci-dessous pour vous préparer à chaque affrontement.",
+    "overviewDescription": "Guides complets pour chaque combat de boss dans Something is Wrong With My Dog : 13 boss, du chevalier Gelum du tutoriel jusqu'aux affrontements de fin de jeu comme le Gelid Dweller et les défis du Gauntlet.",
+    "body": "Les boss de Something is Wrong With My Dog servent de paliers de compétences et d'étapes clés de progression. Certains, comme Gelum, vous enseignent les bases du combat durant le tutoriel. D'autres, comme l'Esprit du Shikai et l'Esprit de la Resurrección, sont des affrontements dans le monde intérieur directement liés au déblocage de la puissance de votre race. Les boss de zone comme Dragonfly, King Croc et Securis gardent l'accès aux nouvelles zones et récompenses. Les ajouts récents incluent le Rogue Commander et ses sbires, The Everfrosted sur le thème de la glace, ainsi que quatre tout nouveaux boss de fin de jeu : The Gelid Dweller, Cinder of the Broken Sky, Devourer of Hosts et le bretteur errant (Junichiro). Chaque boss possède des schémas d'attaque distincts et des mouvements annoncés à maîtriser. Utilisez les guides ci-dessous pour vous préparer à chaque affrontement.",
     "guidesTitle": "Guides des boss",
     "readMore": "En savoir plus",
     "new": "Nouveau",
@@ -379,17 +379,17 @@
     "noGuidesAvailable": "Aucun guide disponible pour le moment. Revenez bientôt !"
   },
   "footer": {
-    "aboutTitle": "Wiki My Seafood Stand",
-    "about": "Le Wiki My Seafood Stand est un centre de guides indépendant créé par des fans, couvrant les voies de progression, les races, les boss, les builds et les connaissances essentielles du jeu, aussi bien pour les nouveaux joueurs que pour les vétérans.",
+    "aboutTitle": "Something is Wrong With My Dog Wiki",
+    "about": "Le Wiki Something is Wrong With My Dog est un centre de guides indépendant créé par des fans, couvrant Jerry le loup, les stratégies de survie, les indices scénaristiques, les fins, les secrets et les connaissances essentielles du jeu pour les nouveaux joueurs comme pour les vétérans.",
     "quickLinks": "Liens rapides",
     "guides": "Guides",
     "legal": "Mentions légales",
-    "copyright": "2026 Wiki My Seafood Stand. Non affilié à Midnight Continent ou Roblox.",
-    "description": "RPG de combat gratuit inspiré de Bleach sur Roblox. 3 races, 130+ compétences, Niv. max 100.",
-    "playGame": "Jouer à My Seafood Stand",
-    "officialDiscord": "Discord officiel",
-    "officialYoutube": "YouTube officiel",
-    "vvBuilder": "VV Builder (Planificateur de compétences)",
+    "copyright": "2026 Wiki Something is Wrong With My Dog. Non affilié au développeur du jeu ni à Roblox.",
+    "description": "Aventure d’horreur psychologique et de survie sur Roblox avec Jerry le loup, 10 fins et des indices scénaristiques cachés.",
+    "playGame": "Jouer sur Roblox",
+    "officialDiscord": "Discord communautaire",
+    "officialYoutube": "Vidéo de gameplay sur YouTube",
+    "vvBuilder": "Guide des fins et secrets",
     "beginnerGuide": "Guide du débutant",
     "raceGuides": "Guides des races",
     "bossGuides": "Guides des boss",
