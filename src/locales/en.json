@@ -42,22 +42,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the controls, tame Jerry with three bones, build your first camp, and survive until morning."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "How to Tame Jerry",
+          "description": "Find the grey wolf at the treeline, gather three bones, and unlock the Good Boy badge."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Survival Mode",
+          "description": "Build a repeatable camp routine, manage resources, and return before nightfall."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Something is Wrong With My Dog."
+          "title": "All 10 Endings",
+          "description": "Follow the story route, compare morning clues, and replay to uncover every ending."
         }
       ]
     },
@@ -65,78 +65,60 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Jerry Taming",
+        "All Endings",
+        "Codes Status",
+        "Survival Mode"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Controls, Jerry taming, camp building, and the first-night routine in Bob's woods.",
+          "href": "/guide/something-is-wrong-with-my-dog-how-to-tame-jerry"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Mystery",
+          "title": "All 10 Endings",
+          "description": "Trace the story routes behind the good, bad, true, and secret endings.",
+          "href": "/guide/something-is-wrong-with-my-dog-all-endings"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Status",
+          "title": "Codes Status",
+          "description": "Check the verified code list, redemption steps, and official sources to watch.",
+          "href": "/codes/something-is-wrong-with-my-dog-codes"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Character",
+          "title": "Jerry the Wolf",
+          "description": "Meet the grey wolf with the red collar and follow his role through the story.",
+          "href": "/characters/something-is-wrong-with-my-dog-jerry-dog"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Roblox",
+          "title": "Roblox Survival Guide",
+          "description": "First-night priorities, controls, Story Mode, Survival Mode, and co-op tips.",
+          "href": "/platforms/something-is-wrong-with-my-dog-roblox"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Series",
+          "title": "Series and Platforms",
+          "description": "Compare the Roblox game, Minecraft adaptations, and animated story.",
+          "href": "/community/something-is-wrong-with-my-dog-series"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Something is Wrong With My Dog?",
       "paragraphs": [
-        "Something is Wrong With My Dog is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Something is Wrong With My Dog is a Roblox horror survival mystery developed by the group DELTA and inspired by LookOut2DD's original series. You enter Bob's woods, meet a grey wolf named Jerry, offer him bones, build a camp, and return each night to compare what changed in the forest.",
+        "The Roblox experience pairs a story mode built around Jerry, Bob, and 10 endings with a Survival Mode that keeps the same map but drops the narrative layer. Solo play supports careful exploration, while co-op sessions for up to eight players let groups divide scouting, camp work, and clue tracking."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Unconfirmed"
+          "value": "DELTA"
         },
         {
           "label": "Platform",
@@ -144,158 +126,248 @@
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Horror Survival Mystery"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Endings",
+          "value": "10"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Players",
+          "value": "1-8"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Modes",
+          "value": "Story & Survival"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Something is Wrong With My Dog Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Follow the first-night loop, tame Jerry, decode Bob's map, and work through every story route with focused guides for each system.",
       "modules": [
         {
           "order": 1,
-          "name": "Something is Wrong With My Dog Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/something-is-wrong-with-my-dog-codes",
-          "displayType": "code-box",
+          "name": "Something is Wrong With My Dog Beginner Guide",
+          "description": "Start with the controls, tame Jerry at the treeline, gather early resources, and build a camp before your first night in Bob's woods.",
+          "href": "/guide/something-is-wrong-with-my-dog-how-to-tame-jerry",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Spawn in Bob's woods and learn WASD for movement, E for inventory, and M for the map."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Collect three bones from exploration, mining, or world spawns before approaching Jerry."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Equip the bones with E and offer them to Jerry at the treeline with Right Click."
+            },
+            {
+              "label": "4",
+              "detail": "Build a camp and scout only nearby landmarks before the light starts to fade."
+            },
+            {
+              "label": "5",
+              "detail": "Return before nightfall, then check what Jerry left behind the next morning."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/something-is-wrong-with-my-dog-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Something is Wrong With My Dog All Endings Guide",
+          "description": "Plan a complete ending run by tracking Jerry, Bob, the cabin, the grave, and the log, then compare how each choice changes the finale.",
+          "href": "/guide/something-is-wrong-with-my-dog-all-endings",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "S",
+              "detail": "True ending — complete optional discoveries before the point of no return and watch the full finale."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "A",
+              "detail": "Secret ending — sweep every area, re-check objects after story beats, and choose direct dialogue."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "B",
+              "detail": "Good ending — follow the full story route and keep Jerry close through each night."
+            },
+            {
+              "label": "C",
+              "detail": "Bad ending — rushing past clues and accepting the first explanation closes the shortest path."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/something-is-wrong-with-my-dog-tier-list",
-          "displayType": "tier-grid",
+          "name": "Something is Wrong With My Dog Codes",
+          "description": "Check the verified code status, learn the redemption flow, and follow the official Roblox page for future announcements.",
+          "href": "/codes/something-is-wrong-with-my-dog-codes",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "NO ACTIVE",
+              "detail": "No redeemable codes are live as of October 23, 2026, and no expired codes have been logged."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "OFFICIAL",
+              "detail": "Watch the Roblox game page and the developer's official channels for future code drops."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
-            },
-            {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "REDEEM",
+              "detail": "If a code appears, copy it exactly and use the in-game redemption menu before it expires."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/something-is-wrong-with-my-dog-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Something is Wrong With My Dog Controls Guide",
+          "description": "Look up movement, inventory, map, attack, and item controls while exploring Bob's woods.",
+          "href": "/platforms/something-is-wrong-with-my-dog-roblox",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "WASD",
+              "detail": "Move through Bob's woods and the surrounding map."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "E",
+              "detail": "Open your inventory to equip bones and manage supplies."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "M",
+              "detail": "Open the map to check landmarks, the cabin, and your route."
+            },
+            {
+              "label": "LMB",
+              "detail": "Attack or break blocks while exploring and gathering."
+            },
+            {
+              "label": "RMB",
+              "detail": "Place items or use them, including offering bones to Jerry."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/something-is-wrong-with-my-dog-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Something is Wrong With My Dog Jerry Taming Guide",
+          "description": "Find Jerry, gather exactly three bones, and complete the taming sequence that unlocks the Good Boy badge.",
+          "href": "/guide/something-is-wrong-with-my-dog-how-to-tame-jerry",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "1",
+              "detail": "Look for the thin grey wolf with a red collar at the edge of the woods."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "2",
+              "detail": "Check your inventory and gather exactly three bones."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "3",
+              "detail": "Press E, select the bones, and walk up to Jerry."
+            },
+            {
+              "label": "4",
+              "detail": "Use Right Click to offer each bone until all three are consumed."
+            },
+            {
+              "label": "5",
+              "detail": "Confirm the Good Boy badge and keep Jerry close during the run."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/something-is-wrong-with-my-dog-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Something is Wrong With My Dog Survival Guide",
+          "description": "Build a camp, prepare for night, manage resources, and use Jerry's morning finds to plan the next run.",
+          "href": "/platforms/something-is-wrong-with-my-dog-roblox",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Camp",
+              "detail": "Build a camp early so you have a safe base before the first night."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Night",
+              "detail": "Return before dark; exploration gets more dangerous after nightfall."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Bones",
+              "detail": "Carry spare bones for Jerry and check what he brings back each morning."
+            },
+            {
+              "label": "Map",
+              "detail": "Compare Bob's map with landmarks you find while scouting."
+            },
+            {
+              "label": "Cabin",
+              "detail": "Search the cabin, grave, and log carefully for story clues."
+            },
+            {
+              "label": "Jerry",
+              "detail": "Keep Jerry close so his behavior and morning gifts are easier to track."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Something is Wrong With My Dog Map and Secrets",
+          "description": "Navigate the forest, caves, and marsh while following Bob's map to the cabin, grave, and log.",
+          "href": "/guide/something-is-wrong-with-my-dog-plot-explained",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Forest",
+              "detail": "Follow Bob's map through the woods and note every landmark."
+            },
+            {
+              "label": "Caves",
+              "detail": "Search caves for bones, resources, and clues that are easy to miss."
+            },
+            {
+              "label": "Marsh",
+              "detail": "Check the marshland edges for routes and story details."
+            },
+            {
+              "label": "Grave",
+              "detail": "Revisit the grave after major story beats to see what changes."
+            },
+            {
+              "label": "Log",
+              "detail": "Read the log carefully and connect it to Bob's map."
+            },
+            {
+              "label": "Jerry",
+              "detail": "Track Jerry's morning gifts to learn where he went overnight."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Something is Wrong With My Dog Game Modes and Multiplayer",
+          "description": "Compare Story Mode, Survival Mode, solo runs, and co-op sessions for up to eight players.",
+          "href": "/platforms/something-is-wrong-with-my-dog-roblox",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "STORY",
+              "detail": "Follow Jerry, Bob, and the 10 endings in the narrative-focused mode."
+            },
+            {
+              "label": "SURVIVAL",
+              "detail": "Use the same map without the story layer and focus on camp building and resources."
+            },
+            {
+              "label": "SOLO",
+              "detail": "Play alone for a slower, more controlled investigation."
+            },
+            {
+              "label": "CO-OP",
+              "detail": "Join sessions of up to eight players and divide scouting, camp, and note-taking roles."
             }
           ]
         }
@@ -307,23 +379,23 @@
       "items": [
         {
           "question": "What is Something is Wrong With My Dog?",
-          "answer": "Something is Wrong With My Dog is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Something is Wrong With My Dog is a Roblox horror survival mystery inspired by LookOut2DD's series. You explore Bob's woods with Jerry, build a camp, survive each night, and investigate the clues that change the story's ending."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Is Something is Wrong With My Dog available on Roblox?",
+          "answer": "Yes. Something is Wrong With My Dog is played through its Roblox experience, where you can enter solo or join a co-op session with friends."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How many endings does Something is Wrong With My Dog have?",
+          "answer": "Something is Wrong With My Dog has 10 endings. Story choices, optional discoveries, and the clues you follow across multiple runs determine which finale you reach."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How do you tame Jerry in Something is Wrong With My Dog?",
+          "answer": "In Something is Wrong With My Dog, gather exactly three bones, open your inventory with E, and use Right Click to offer each bone to Jerry at the treeline. The Good Boy badge confirms the bond."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Can you play Something is Wrong With My Dog solo or in co-op?",
+          "answer": "Something is Wrong With My Dog supports solo play and co-op sessions for up to eight players. Solo runs suit careful exploration, while co-op lets players split camp work, scouting, and clue tracking."
         }
       ]
     },
