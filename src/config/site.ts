@@ -19,19 +19,15 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
-  social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
-  },
+  name: "Something is Wrong With My Dog Wiki",
+  shortName: "Something is Wrong With My Dog",
+  logoText: "S",
+  tagline: "Jerry, Survival, Endings & Secrets",
+  description: "Fan-made Something is Wrong With My Dog wiki with Jerry taming, survival tips, story clues, endings, secrets, and Roblox gameplay guides.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://somethingiswrongwithmydog.top",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://somethingiswrongwithmydog.top").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://www.roblox.com/games/133409496563091/Something-is-Wrong-With-My-Dog",
+  heroVideoId: "4APP_18ZQac", // Full gameplay walkthrough for Something is Wrong With My Dog
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
 };
